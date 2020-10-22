@@ -1,2 +1,4 @@
-# test-task-for-BigDataSolutions--november-2019-
+# Finding max trades one-minute window for exchange
+ 
+
  
